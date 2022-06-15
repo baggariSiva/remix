@@ -8,7 +8,7 @@ This is a very basic example of a simple Remix app using the Remix App Server.
 
 - [Remix Docs](https://remix.run/docs)
 
-Clone this [elestio-examples/remix](https://github.com/elestio-examples/remix) 
+Clone this [elestio-examples/remix](https://github.com/elestio-examples/remix) repository
 
 ```
 git clone https://github.com/elestio-examples/remix.git

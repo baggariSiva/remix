@@ -2,13 +2,9 @@
 
 <a href="https://dash.elest.io/deploy?source=cicd&social=Github&url=https://github.com/elestio-examples/remix"><img src="public\images\deploy-on-elestio.png" alt="Deploy on Elest.io" width="180px" /></a>
 
-<img src="public\images\remix.png" alt="screenshot of the Remix app" width="100%" />
-
-# Remix!
-
 This is a very basic example of a simple Remix app using the Remix App Server.
 
-- [Remix Docs](https://remix.run/docs)
+<img src="public\images\remix.png" alt="screenshot of the Remix app" width="100%" />
 
 # Steps to clone this repository and to run locally.
 

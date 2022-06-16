@@ -2,27 +2,41 @@
 
 <a href="https://dash.elest.io/deploy?source=cicd&social=Github&url=https://github.com/elestio-examples/remix"><img src="public\images\deploy-on-elestio.png" alt="Deploy on Elest.io" width="180px" /></a>
 
+<img src="public\images\remix.png" alt="screenshot of the Remix app" width="100%" />
+
 # Remix!
 
 This is a very basic example of a simple Remix app using the Remix App Server.
 
 - [Remix Docs](https://remix.run/docs)
 
-Clone this [elestio-examples/remix](https://github.com/elestio-examples/remix) repository
+# Steps to clone this repository and to run locally.
+
+
+### Step 1: Clone this repository.
 
 ```
 git clone https://github.com/elestio-examples/remix.git
 ```
-Change into project directory.
+### Step 2: Go to your project folder.
+
+```
+cd remix
+```
+
+### Step 3: Install dependencies.
 
 ```
 npm install
+```
+
+### Step 4: Run your app in dev mode.
+
+```
 npm run dev
 ```
 
-This starts your app in development mode, make the changes and push.
-
-<img src="public\images\remix.png" alt="screenshot of the Remix app" width="100%" />
+### Step 5: Make some changes and push.
 
 
 ## CI/CD on Elestio

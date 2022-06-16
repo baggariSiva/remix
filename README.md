@@ -6,7 +6,7 @@ This is a very basic example of a simple Remix app using the Remix App Server.
 
 <img src="public\images\remix.png" alt="screenshot of the Remix app" width="100%" />
 
-# Steps to clone this repository and to run locally.
+# Steps to clone this repository and run locally.
 
 
 ### Step 1: Clone this repository.

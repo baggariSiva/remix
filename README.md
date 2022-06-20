@@ -1,4 +1,4 @@
-# Remix on Elestio
+# Remix using create-remix on Elestio
 
 This is a minimal example of a Remix site created with create-remix
 
